@@ -1,5 +1,4 @@
-/* Vunlerable program: stack.c */
-/* You can get this program from the lab's website */
+/* Vulnerable program: stack.c */
 /* Course: CYBER 262 */
 /* Instructor: David Hozza */
 
