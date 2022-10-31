@@ -9,7 +9,9 @@
 /* Changing this size will change the layout of the stack.
  * Instructors can change this value each year, so students
  * won't be able to use the solutions from the past.
- * Suggested value: between 0 and 400  */
+ * Suggested value: between 0 and 400
+ * Note that the # is NOT a Comment it is a pre processor Directive in C */
+
 #ifndef BUF_SIZE
 #define BUF_SIZE 24
 #endif
